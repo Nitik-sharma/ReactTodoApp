@@ -129,7 +129,7 @@ color:#930e0e;
   color:rgb(0,196,102);
 }
 
-@media only screen and (max-width: 600px) and (min-width: 400px)  {
+@media only screen and (max-width: 600px) and (min-width: 200px)  {
   h1{
     text-align: center;
     color:#930e0e;
